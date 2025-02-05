@@ -10,7 +10,3 @@ print(numbers_array[1])
 print(" ")
 #print the whole array
 print(numbers_array)
-
-friends = [ "Batman", "Cat Man", "Fat Man", "Cockroach Man"] 
-cat_man_index = friends.index("Cat Man")
-print(cat_man_index)
