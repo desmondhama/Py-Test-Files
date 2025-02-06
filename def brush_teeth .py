@@ -1,0 +1,10 @@
+def brush_teeth():
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+				print("hhgjhghhgf")
+brush_teeth()
